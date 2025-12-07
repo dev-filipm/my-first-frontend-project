@@ -8,6 +8,11 @@ To je moj prvi repozitorij na GitHubu. Namen projekta je bil, da se naučim osno
 - Osnove GitHub workflowa: commits, branches, pull requests
 - Kako oblikovati README z Markdownom
 - Kako predstaviti svoj prvi digitalni projekt
+- Osnove dela z **HTML, CSS in JavaScript** za frontend projekte
+- Kako dokumentirati svoje delo in ideje na GitHubu
 
 ## 😄 Zabavno o meni
-Rad treniram **atletiko 🏃‍♂️**, obožujem **adrenalinske športe 🔥** in obožujem ustvarjati nove digitalne projekte. 
+Rad treniram **atletiko 🏃‍♂️**, obožujem **adrenalinske športe 🔥** in obožujem ustvarjati nove digitalne projekte.  
+- Rada preizkušam nove tehnologije in gradim mini projekte  
+- Sem radoveden in vedno iščem nove načine, kako izboljšati svoje znanje  
+- Moj cilj je postati **junior frontend developer 💻⚡**
